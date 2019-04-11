@@ -1,0 +1,2 @@
+更動 array 內的資料  畫面不即時顯示
+解法 1. this.tableData.splice(this.tableData.indexOf(data), 1, data); 直接替換
